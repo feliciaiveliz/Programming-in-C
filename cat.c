@@ -73,6 +73,7 @@ int main()
 {
   cat anakin = {"Anakin","Ani or Booboo", 14, "laying on my favorite human Felicia's lap while she watches The Great British Baking Show :)", 
   {"Brown with stripes", "Green", "Sweet"}};
+  // anakin.info.eyes = "Red";  ----> option to change Booboo's eye color
   cat steve = {"Steve", "Stevie Lynn", 1, "playing with my bacon and egg toys and harrassing the other cats (mostly old man Booboo),\nespecially while they eat ;)", {"White with gray patch on head", "Blue", "Devilish"}};
 
   // Anakin
